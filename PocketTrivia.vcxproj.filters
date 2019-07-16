@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\ChQs">
+      <UniqueIdentifier>{6b61b95f-a6b1-4715-a1b5-54da4a5d8166}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="2.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="3.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="4.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="5.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="6.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="7.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="8.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="9.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="10.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="11.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="12.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="13.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="14.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="15.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="16.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="17.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="18.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="19.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="20.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="21.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="22.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="houseofrisinsun.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="kawliga.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="petergunn.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Introduction.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="boneco.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="montanha.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sky.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vikings.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="dragon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="madScientist.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="space.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="clapping.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="explode.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
