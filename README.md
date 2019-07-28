@@ -1,3 +1,4 @@
+#headings
 Video Game - DodgeIt 
 
 Concept: Dodge the enemies (aliens) and collect the coins(astroids). User is given 3 lifelines to collect all the astroid coins. User can choose from one of the four sprite characters. 
