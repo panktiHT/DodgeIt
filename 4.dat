@@ -1,0 +1,50 @@
+What is the primary graphics drawing function used to draw the tanks in Tank War?
+rectfill ~
+fillrect
+drawrect
+rectangle
+What function in Tank War sets up a bullet to fire in the direction of the tank?
+pulltrigger
+launchprojectile
+fireweapon ~
+firecannon
+What function in Tank War updates the position and draws each projectile?
+updatecannon
+movebullet
+moveprojectile
+updatebullet ~
+What is the name of the organization that produced GCC?
+Free Software Foundation ~
+GNU
+Freeware
+Open Source
+How many players are supported in Tank War at the same time?
+1
+2 ~
+3
+4
+What is the technical terminology for handling two objects that crash in the game?
+Crash override
+Sprite insurance
+Collision detection ~
+Handling the crash
+What function in Tank War keeps the tanks from colliding with other objects?
+makepath
+clearpath ~
+buildpath
+dontcollide
+Which function in Tank War helps to find out whether a point on the screen is black?
+getpixel ~
+findcolor
+getcolor
+checkpixel
+What is the standard constant used to run Allegro in windowed mode?
+GFX_RUNINA_WINDOW
+GFX_DETECT_WINDOWED
+GFX_AUTODETECT_WINDOWS
+GFX_AUTODETECT_WINDOWED ~
+What function in Allegro is used to slow the game down?
+pause
+slow 
+rest ~
+stop

@@ -1,0 +1,50 @@
+﻿What version of Allegro are we using here?
+1.0
+2.4
+4.2 ~
+5.3
+GNU is an acronym for which of the following phrases?
+GNU is Not UNIX ~
+Great Northern University
+Central Processing Unit
+None of the above
+What is the primary website for Dev-C++?
+http://www.microsoft.com
+http://www.bloodshed.net ~
+http://www.borland.com
+http://www.fsf.org
+What is the name of the compiler used by Dev-Pascal?
+GNU Pascal ~
+Turbo Pascal
+Object Pascal
+Microsoft Pascal
+What version of Dev-C++ are we using in this book?
+3.0
+4.0
+5.0 ~
+6.0
+Which version of Visual C++ are we focusing primarily on in this book?
+6.0
+7.0 (2002)
+7.1 (2003) ~
+8.0 (2005)
+What distinctive feature of Dev-C++ sets it apart from commercial devel- opment tools?
+Dev-C++ is open-source
+Dev-C++ is free
+Dev-C++ is multi-platform
+All of the above ~
+What is the name of the game programming library featured in this chapter?
+DirectX
+Gnome
+GTK+
+Allegro ~
+What function must be called before you use the Allegro library?
+main()
+byte_me()
+allegro_init() ~
+lets_get_started()
+What statement must be included at the end of main() in an Allegro program?
+END_OF_THE_WORLD()
+END_OF_MAIN() ~
+END_OF_FREEDOM()
+AH_DONUTS()

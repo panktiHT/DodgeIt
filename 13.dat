@@ -1,0 +1,50 @@
+What is the home site for Mappy?
+http://www.mappy.com
+http://www.maptiles.com
+http://www.tilemap.co.uk ~
+http://www.mappy.co.uk
+What kind of information is stored in a map file?
+Data that represent the tiles comprising a game world ~
+Data that specify the game environment
+Data that describe the characters in a game 
+Data that identify the background images of a game
+What name is given to the graphic images that make up a Mappy level?
+Sprites
+Levels
+Maps
+Tiles ~
+What is the default extension of a Mappy file?
+SMF
+MAP
+FMP ~
+BMP
+Where does Mappy store the saved tile images?
+Inside a new bitmap file
+Inside the map file ~ 
+In individual bitmap files
+At a location specified by the user
+What is one example of a retail game that uses Mappy levels?
+Hot Wheels: Stunt Track Driver 2
+Hyperspace Delivery Boy ~
+Real War: Rogue States
+Wayne Gretzky and the NHLPA All-Stars
+What is the recommended format for an exported Mappy level?
+Binary
+Hexadecimal
+XML
+Text map data ~
+Which macro in Mappy fills a map with a specified tile?
+Solid Rectangle ~
+Fill Map
+Solid Fill
+Fill Tiles
+How much does a licensed copy of Mappy cost?
+$10
+$20
+$30
+It’s free! ~
+What scripting language does Mappy support?
+BASIC
+LUA ~
+Python
+ASP

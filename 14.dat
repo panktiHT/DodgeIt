@@ -1,0 +1,50 @@
+What is the name of the map editor we’ve been using in this chapter?
+Tile Editor
+Map Edit
+Mappy ~
+TestMappy
+What is the name of the function used to load a level/map file?
+MapLoad ~
+LoadLevel
+OpenMap
+ReadLevel
+What is the name of the helper library used in this chapter to load game levels/maps?
+LevelLib
+MappyAL ~
+SpriteLib
+MapFile
+What function would you use to draw the foreground layer of a map?
+DrawForeground
+DrawMapLayer
+DrawLevelFG
+MapDrawFG ~
+What is the name of the global variable containing the width of a tile map that has been loaded?
+tilemapwidth
+mapwidth ~
+tileMapSizeX
+tilewidth
+What function is used to draw the background layer of a map?
+DrawBG
+MapDrawBG ~
+DrawBackground
+DrawMapLayer
+What function returns the tile number at a specified x,y position on the map?
+gettilenumber
+getmaptile
+MapGetBlockID ~
+mapGetTile
+What is the name of the global variable containing the height value of tiles contained in the map file that has been loaded?
+maptilesize
+tileheight
+mapblockheight ~
+blocksize
+What function should you call before ending the program to free the memory used by map data?
+MapFreeMem ~
+freemapdata
+deleteMap
+clearMapData
+Which MappyAL library function loads a Mappy file?
+MapLoad ~
+LoadMap
+MappyLoad
+OpenMap

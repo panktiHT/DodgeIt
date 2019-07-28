@@ -18,9 +18,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -125,6 +122,15 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="space.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vikings_mediumenemies_013.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vikings_smallenemies_014.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="enemy1.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

@@ -1,0 +1,50 @@
+Does Allegro provide support for background scrolling?
+Yes, but the functionality is obsolete ~
+Yes, it’s fully integrated
+Only partially
+Not at all
+What does a scroll window show?
+A small part of a larger game world ~
+Pictures of scrolls
+A window moving up and down
+A single tile of the map
+Which of the programs in this chapter demonstrated bitmap scrolling for the first time?
+TileScroll
+DynamicScroller
+ScrollScreen ~
+ScrollTest
+Why should a scrolling background be designed?
+To improve the game’s appearance
+To enlarge the game world
+To increase sales potential
+To achieve the goals of the game ~
+Which process uses an array of images to construct the background as it is displayed?
+Sprite blitting
+Image compositing
+Tiling ~
+Level editing
+What is the best way to create a tile map of the game world?
+By using a map editor ~
+By storing level data as a const array
+By generating random tiles
+By using a custom level editor
+What type of object comprises a typical tile map?
+Strings
+Binary data
+Numbers ~
+Pointers
+What was the size of the virtual background in the GameWorld program?
+800 x 800 ~
+8,000 x 8,000
+1,000 x 2,000 
+32,000 x 32,000
+How many virtual backgrounds are used in the new version of Tank War?
+0
+1 ~
+2
+3
+How many scrolling windows are used in the new Tank War?
+0
+1
+2 ~
+3

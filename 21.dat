@@ -1,0 +1,50 @@
+What library did we use in this chapter to work with multi-threading?
+AllegroThreads
+pthread ~
+allegThreads
+BerkeleyThreads
+Which company maintains the multi-threading library for Windows sys- tems used in this chapter?
+Red Hat ~
+Microsoft
+Sears
+Borland
+Which function will terminate a thread?
+threadkill
+unloadthread
+pthread_exit ~
+threadTerminate
+What type of parameter does a thread callback function require?
+int thread_id
+void *data ~
+THREAD *thread_data
+thread *data
+What is the most common method of keeping a thread running inside a thread callback function?
+thread callback
+mutex
+thread function
+while loop ~
+What is a process that runs within the memory space of a single program but is executed separately from that program?
+mutex
+process
+thread ~
+interrupt
+What helps protect data by locking it inside a single thread, preventing that data from being used by another thread until it is unlocked?
+mutex ~
+process
+thread
+interrupt
+What does pthread stand for?
+Protected Thread
+Public Thread
+POSIX Thread ~
+Purple Thread
+What is the name of the function used to create a new thread?
+create_posix_thread
+pthread_create ~
+install_thread
+thread_callback
+What is the name of the function that locks a mutex?
+lock_pthread_mutex
+lock_mutex
+pthread_lock_mutex
+pthread_mutex_lock ~

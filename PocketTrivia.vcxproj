@@ -164,9 +164,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
@@ -199,12 +196,15 @@
   <ItemGroup>
     <Image Include="boneco.bmp" />
     <Image Include="dragon.bmp" />
+    <Image Include="enemy1.bmp" />
     <Image Include="Introduction.bmp" />
     <Image Include="madScientist.bmp" />
     <Image Include="montanha.bmp" />
     <Image Include="sky.bmp" />
     <Image Include="space.bmp" />
     <Image Include="Vikings.bmp" />
+    <Image Include="Vikings_mediumenemies_013.bmp" />
+    <Image Include="Vikings_smallenemies_014.bmp" />
   </ItemGroup>
   <ItemGroup>
     <Media Include="clapping.wav" />

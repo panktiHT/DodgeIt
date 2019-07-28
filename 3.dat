@@ -1,0 +1,50 @@
+What is the term used to describe line-based graphics?
+Vector ~
+Bitmap
+Polygon
+Pixel
+What does CRT stand for?
+Captain Ron Teague
+Corporate Resource Training
+Cathode Ray Tube ~
+Common Relativistic Torch
+What describes a function that draws a simple geometric shape, such as a point, line, rectangle, or circle?
+putpixel
+Graphics Primitive ~
+triangle
+polygon
+How many polygons does the typical 3D accelerator chip process at a time?
+16
+8 
+1 ~
+256
+What is comprised of three small streams of electrons of varying shades of red, green, and blue?
+Superstring
+Quantum particle
+Electron gun
+Pixel ~
+What function is used to create a custom 24- or 32-bit color?
+makecol ~
+rgb
+color
+truecolor
+What function is used to draw filled rectangles?
+fill_rect
+fillrect
+filledrectangle
+rectfill ~
+Which of the following is the correct definition of the circle function?
+void circle(BITMAP *bmp, int x, int y, int radius, int color); ~
+void draw_circle(BITMAP *bmp, int x, int y, int radius);
+int circle(BITMAP *bmp, int y, int x, int radius, int color);
+bool circle(BITMAP *bmp, int x, int y, int color);
+What function draws a set of curves based on a set of four input points stored in an array?
+jagged
+draw_curves
+spline ~
+polygon
+Which text output function draws a formatted string with justification?
+textout_justify
+textprintf_right
+textout_centre
+textprintf_justify ~

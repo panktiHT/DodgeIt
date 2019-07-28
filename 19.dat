@@ -1,0 +1,50 @@
+Which company developed the FLI/FLC file format?
+Autodesk ~
+Borland
+Microsoft
+Bungie
+Which product first used the FLI format?
+3D Studio Max
+WordPerfect
+Animator ~
+PC Paintbrush
+Which product premiered the more advanced FLC format?
+Animator Pro ~
+PC Animation
+Dr. Halo
+CorelDRAW
+What is the common acronym used to describe both FLI and FLC files?
+FLICK
+FLICKS
+FLI/C
+FLIC ~
+Which function plays an FLIC file directly?
+play_fli ~
+direct_play
+play_animation
+play_flic
+How many FLIC files can be played back at a time by Allegro?
+1 ~
+2
+3
+4
+Which function loads a FLIC file for low-level playback?
+load_fli
+read_fli
+open_fli ~
+shoo_fli
+Which function moves the animation to the next frame in an FLIC file?
+next_fli_frame ~
+get_next_frame
+move_frame
+next_fli
+What is the name of the variable used to set the timing of FLIC playback?
+flic_frames
+playback_timer
+fli_playback
+fli_timer ~
+What is the name of the variable that contains the bitmap of the current FLIC frame?
+fli_frame
+fli_bitmap ~
+fli_image
+current_fli

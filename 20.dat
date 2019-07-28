@@ -1,0 +1,50 @@
+Which of the following is not one of the three deterministic algorithms covered in this chapter?
+Random logic
+Tracking
+Conditions ~
+Patterns
+Can fuzzy matrices be used without multiplying the input memberships? Why or why not?
+No, it is absolutely necessary to multiply the input memberships. ~
+Yes, but only after negating the matrix.
+Yes, it is possible using AND and OR operators, and then randomly selecting action for the active cell.
+Yes, it is possible using XOR and NOT operators after multiplying the matrix.
+Which type of system solves problems that are usually solved by specialized humans?
+Expert system ~
+Deterministic algorithm
+Conditional algorithm
+If-Then-Else
+Which type of intelligence system is based on an expert system, but is capable of determining fractions of complete answers?
+Genetic algorithm
+Fuzzy logic ~
+Deterministic algorithm
+Expert system
+Which type of intelligence system uses a method of computing solutions for a hereditary logic problem?
+Expert system
+Fuzzy logic
+Genetic algorithm ~
+Conditional logic
+Which type of intelligence system solves problems by imitating the workings of a brain?
+State machine
+Genetic algorithm
+Fuzzy logic
+Neural network ~
+Which of the following uses predetermined behaviors of objects in relation to the universe problem?
+Genetic algorithm
+Deterministic algorithm ~
+Fuzzy logic
+Neural network
+Which type of deterministic algorithm ‘‘fakes’’ intelligence?
+Patterns
+Tracking
+Random motion ~
+Logic
+Which type of deterministic algorithm will cause one object to follow another?
+Tracking ~
+Conditional
+Patterns
+Random motion
+Which type of deterministic algorithm follows preset templates?
+Tracking
+Random motion
+Genetic
+Patterns ~
