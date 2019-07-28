@@ -1,8 +1,4 @@
-This is a trivia game, created for the COMP 369 course. It quizzes the player 
-on the various questions in the textbook for each chapter.
+Video Game - DodgeIt 
 
-Players can select how many questions they would like to recieve, and from where.
- 
-Written by Andrew McKernan using the Allegro library. 
+Concept: Dodge the enemies (aliens) and collect coins(astroids). User is given 3 lifelines to collect all the astroid coins. User can choose from one of the four sprite characters. 
 
-August 2017
