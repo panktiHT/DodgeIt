@@ -5,7 +5,7 @@ Concept: Dodge the enemies (aliens) and collect the coins(astroids). User is giv
 Windows Visual Studios 2017 was used to develop the game in C with Allegro 4.4.2 Library. 
 Source code: main.c 
 
-<img src="https://github.com/panktiHT/DodgeIt.git/Photos/image1.PNG"></img>
+<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image1.PNG"></img>
 
 
 
