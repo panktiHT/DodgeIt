@@ -218,7 +218,7 @@ int main()
 
 			//instructions			
 			textout_centre_ex(buffer, font, "To turn off/on the music PRESS CTRL+M", SCREEN_W / 2, 22 + text_height(font), BLACK, WHITE);
-			textout_centre_ex(buffer, font, "INSTRUCTIONS: Dodge your enemies and collect all the starts to win.", 320, 390, BLACK, WHITE);
+			textout_centre_ex(buffer, font, "INSTRUCTIONS: Dodge your enemies and collect all the astroid stars to win.", 320, 390, BLACK, WHITE);
 			textout_centre_ex(buffer, font, "Press ENTER to begin", SCREEN_W / 2, SCREEN_H / 2 + 100, BLACK, WHITE);
 			textout_centre_ex(buffer, font, "Press ESC to terminate", SCREEN_W / 2, SCREEN_H / 2 + 200, BLACK, WHITE);
 
@@ -258,9 +258,22 @@ int main()
 		if (mainMenuMode == 1)
 		{
 			textout_ex(sky, font, "DodgeIT (ESC to quit)", 0, 1, BLACK, WHITE);
+			textout_ex(sky, font, "Press Ctrl+H for Help", 460, 1, BLACK, WHITE);
+
+			if (key[KEY_LCONTROL] && key[KEY_H] || key[KEY_RCONTROL] && key[KEY_H])
+			{
+				textout_ex(sky, font, "Moving Your Sprites: ", 200, 35, BLACK, WHITE);
+				textout_ex(sky, font, " > to move right ", 200, 45, BLACK, WHITE);
+				textout_ex(sky, font, " < to move left ", 200, 55, BLACK, WHITE);
+				textout_ex(sky, font, " ^ to move up ", 200, 65, BLACK, WHITE);
+				textout_ex(sky, font, " v to move down ", 200, 75, BLACK, WHITE);
+
+				textout_ex(sky, font, " Lifelines will reduce upon colliding with enemies.", 200, 85, BLACK, WHITE);
+			}
+
 
 			//Note: Asking user to select their sprite from variety of the options available 
-			textout_centre_ex(sky, font, "Select Your Player", SCREEN_W / 2, 22 + text_height(font), BLACK, WHITE);
+			textout_centre_ex(montanha, font, "Select Your Player", SCREEN_W / 2, 120 + text_height(font), BLACK, WHITE);
 
 			//draw
 			//Reference: https://rpg.hamsterrepublic.com/ohrrpgce/Free_Sprites
