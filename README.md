@@ -8,7 +8,8 @@
 <br><b> Library: </b> Allegro 4.4.2  
 <br><b>Source code:</b> main.c 
 
-<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image1.PNG"></img>
-<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image2.PNG"></img>
+<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image_1.PNG"></img>
+<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image_2.PNG"></img>
+<img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image_2_5.PNG"></img>
 <img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image3.PNG"></img>
 <img src="https://github.com/panktiHT/DodgeIt/blob/master/Photos/image4.PNG"></img>
