@@ -5,7 +5,10 @@ Concept: Dodge the enemies (aliens) and collect the coins(astroids). User is giv
 Windows Visual Studios 2017 was used to develop the game in C with Allegro 4.4.2 Library. 
 Source code: main.c 
 
-Inline-style: 
+<img src="/Photos/image1.PNG"/>
+
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+image1.PNG
 
 
