@@ -10,3 +10,4 @@ Source code: main.c
 
 
 
+![2015-09-20 17 02 28](https://github.com/panktiHT/DodgeIt/blob/master/Photos/image1.PNG)
